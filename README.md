@@ -1,3 +1,4 @@
+### Proposed README.md Structure:
 1. **Introduction**
 2. **Features**
 3. **Installation**
@@ -73,3 +74,4 @@ This project is licensed under the MIT License.
 - Special thanks to all contributors.
 - Inspired by various sign language recognition systems.
 ```
+
